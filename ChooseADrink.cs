@@ -10,7 +10,7 @@ namespace ChooseADrink
     {
         static void Main(string[] args)
         {
-            var profes = Console.ReadLine();
+            var profession = Console.ReadLine();
             var quantities = double.Parse(Console.ReadLine());
             double drink1 = 0.70;
             double drink2 = 1.00;
